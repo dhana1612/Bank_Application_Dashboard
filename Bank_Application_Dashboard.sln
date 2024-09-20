@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank_Application_Dashboard", "Bank_Application_Dashboard\Bank_Application_Dashboard.csproj", "{80CB51EA-3CC0-4DDE-91D0-855003E63A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CB51EA-3CC0-4DDE-91D0-855003E63A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CB51EA-3CC0-4DDE-91D0-855003E63A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CB51EA-3CC0-4DDE-91D0-855003E63A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CB51EA-3CC0-4DDE-91D0-855003E63A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4E406E-B007-4415-BBB6-E794DD6C7DCF}
+	EndGlobalSection
+EndGlobal
